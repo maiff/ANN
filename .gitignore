@@ -1,0 +1,15 @@
+test_kd_tree/*
+test_pybind/*
+*.out
+*.so
+build
+bin
+CMakeFiles
+*CMakeFiles
+CMakeCache.txt
+Makefile
+*.cmake
+sift-128-euclidean.hdf5
+.vscode
+__pycache__
+*.ann
